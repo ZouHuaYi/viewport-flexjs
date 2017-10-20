@@ -1,0 +1,8 @@
+.box{width:100%;}
+.box-con{width:100%;height: 4.6875rem;background: #ccc;}
+.box-con h2{height:0.625rem;line-height: 0.625rem;border-bottom: 0.015625rem solid #000;}
+[data-dpr="1"] .box-con h2{font-size: 14px;}
+[data-dpr="2"] .box-con h2{font-size: 28px;}
+[data-dpr="3"] .box-con h2{font-size: 42px;}
+.flex-box{height:1.5625rem;}
+.flex-box .grid .col-4{}
